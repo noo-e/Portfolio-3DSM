@@ -2,15 +2,22 @@
 <h2>Introdução</h2>
 <p align="justify">Este portfólio compila os projetos acadêmicos que eu desenvolvi até o 3º Semestre do curso de Desenvolvimento de Software Multiplataforma da <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal</a>.</p>
 <h3>Sobre mim</h3>
-<p align="center"><img src="./perfil.png"></p>
+<div align="center"><img src="./perfil.png"></div>
 <p align="justify">Me chamo Vinicius, tenho 22 anos e me formei em Técnico em Química pela ETEC de Suzano em 2018, onde cursei junto ao Ensino Médio. Nunca cheguei a atuar na minha área de formação, na verdade, até então não havia encontrado uma área que me despertasse interesse o suficiente.</p>
 <p align="justify">Em uma nova tentativa, aproveitando o gancho do meu interesse em tecnologia, ingressei na FATEC no segundo semestre de 2023, na qual me encontro cursando o 3º Semestre do curso de Desenvolvimento de Software Multiplataforma. A amplitude de possibilidades na área me mantém inspirado para conhecer mais desse mundo e a evoluir como profissional.</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
 <h3>Sobre o API</h3>
 <p align="justify">O API (Aprendizado por Projetos Integrados) é uma metodologia destinada a expor os alunos a desafios reais relacionados às áreas de estudos. A cada semestre, a instituição, em colaboração com uma empresa parceira, elabora um projeto que será executado ao longo do período, empregando os conhecimentos adquiridos nas disciplinas daquele semestre. Todos os projetos são realizados em equipe e seguindo a metodologia ágil SCRUM.</p>
 <h2>Meus Projetos</h2>
 <h3>Guará</h3>
 <h4>2022-2 - 1º Semestre</h4>
-<p align="center"><img src="./1 SEM/Guará.png" alt="banner do projeto Guará"></p>
+<div align="center"><img src="./1 SEM/Guará.png" alt="banner do projeto Guará"></div>
 <p align="justify">O primeiro projeto contou com o professor da Fatec, Fabricio Galende, atuando como cliente interno. A problemática abordada foi o acompanhamento à constante digitalização dos processos do nosso cotidiano, focado no setor <b>bancário</b>.</p>
 <p align="justify">Como resultado, desenvolvemos o <a href="https://github.com/EquipeAPI/API-1DSM-2022">Guará</a>, uma aplicação web de Internet Banking capaz de gerenciar operações bancárias simples (e simuladas) de depósito, saque, transferência entre usuários, além de implementar contas do tipo corrente e poupança com suas peculiaridades.</p>
 <p align="justify">Além disso, o sistema oferece recursos que permitem ao responsável controlar e gerenciar diversos aspectos da instituição, tais como:</p>
@@ -32,7 +39,7 @@
 <p align="justify">Neste projeto eu atuei como desenvolvedor backend e SCRUM Master, sendo minha primeira vez para ambas as posições. Como desenvolvedor eu operei no início criando estruturas para comunicação entre as diferentes partes do projeto (frontend, backend e banco de dados) e trabalhei diretamente em funcionalidades específicas como o histórico de transação dos usuários, geração de comprovantes de operações e rendimento das contas do tipo poupança.</p>
 <p align="justify">Atuar como SCRUM Master foi desafiador, por ser o primeiro contato com a metodologia sinto que muitas das funções de cada papel ficaram meio embaralhadas, porém, posso dizer que ao final do semestre consegui criar um ambiente para gerenciar as tarefas e requisitos que surgiram do projeto através de ferramentas como o Jira e planilhas do Excel, também criei canais de comunicação para a equipe e documentei o processo e o produto no nosso repositório do Github. Além disso, auxiliei no entendimento dos requisitos e na montagem do Product Backlog.</p>
 <details>
-    <summary>Experiências adquiridas em Hard Skills</summary>
+    <summary><b>Experiências adquiridas em Hard Skills</b></summary>
     <p></p>
     <ul>
         <li>Estruturar documentos HTML e utilizar de template engines para gerar conteúdo dinâmico.</li>
@@ -44,7 +51,7 @@
 </details>
 
 <details>
-    <summary>Soft Skills desenvolvidas</summary>
+    <summary><b>Soft Skills desenvolvidas</b></summary>
     <p></p>
     <ul>
         <li><b>Trabalho em equipe</b>, mesmo se tratando de um grupo de pessoas desconhecidas abordando o desenvolvimento pela primeira vez, consegui colaborar para o sucesso do projeto.</li>
@@ -57,7 +64,7 @@
 <hr>
 <h3>Sabiá</h3>
 <h4>2023-1 - 2º Semestre</h4>
-<p align="center"><img src="./2 SEM/Sabiá.png"></p>
+<div align="center"><img src="./2 SEM/Sabiá.png"></div>
 <p align="justify">O <a href="https://github.com/Equipe-Beelieve/API-2DSM-2023">Sabiá</a> foi desenvolvido em parceria com a <a href="https://jaia.software/index">Jaia Software</a>, uma Software House especializada na consultoria e desenvolvimento de sistemas para gestão empresarial. O tema que nos foi proposto era desenvolver um sistema capaz de lidar com o processo de entrada de materiais na agroindústria.</p>
 <p align="justify">O Sabiá segue o passo a passo desse processo metódico de inspeção e entrada de material, fornecendo dados para auxiliar a tomada de decisões pela empresa. Nele é possível realizar o CRUD de usuários, pedidos, produtos e seus fornecedores e acompanhar suas etapas:</p>
 <ul>
@@ -79,7 +86,7 @@
 <p align="justify">No meio do projeto se fez necessário atualizar a estrutura do frontend para um SPA utilizando o React e eu fui uma das pessoas que auxiliou nesse processo. Após esse episódio, desempenhei majoritariamente funções de frontend. Isso incluiu o desenvolvimento dos componentes de análise qualitativa e relatório final, bem como a implementação de filtros e pesquisa sobre os dados cadastrados.</p>
 <p align="justify">Também aproveitei da minha experiência do semestre anterior como SCRUM Master para auxiliar meu colega que estava desempenhando este papel no uso das ferramentas.</p>
 <details>
-    <summary>Experiências adquiridas em Hard Skills</summary>
+    <summary><b>Experiências adquiridas em Hard Skills</b></summary>
     <p></p>
     <ul>
         <li>Programação orientada a objetos com Typescript.</li>
@@ -88,7 +95,7 @@
     </ul>
 </details>
 <details>
-    <summary>Soft Skills desenvolvidas</summary>
+    <summary><b>Soft Skills desenvolvidas</b></summary>
     <p></p>
     <ul>
         <li><b>Adaptabilidade</b>, por conseguir lidar com a troca de tecnologias no decorrer do projeto.</li>
@@ -99,7 +106,7 @@
 <hr>
 <h3>Beelieve</h3>
 <h4>2023-2 - 3º Semestre</h4>
-<p align="center"><img src="./3 SEM/Beelieve.png"></p>
+<div align="center"><img src="./3 SEM/Beelieve.png"></div>
 <p align="justify">Este projeto foi desenvolvido em parceria com a <a href="https://www.siatt.com.br/siatt/">SIATT</a>, empresa do ramo de defesa e aeroespacial focada na integração de sistemas de alto teor tecnológico.</p>
 <p align="justify">O tema foi desenvolver um software para gestão de projetos complexos que utilizam de metodologias específicas como a WBS (Work Breakdown Structure) e IPDT (Integrated Product Development Team), que consiste resumidamente em desmembrar um projeto maior em pedaços menores e atribuir responsáveis à cada um desses "pacotes", cobrindo assim tanto um macro quanto micro gerenciamento.</p>
 <p align="justify">O acompanhamento era feito a partir de planilhas e o nosso desafio era transpor esse conteúdo para uma aplicação web de forma a tornar o processo mais intuitivo e, em alguns casos, automatizado. Através do Beelieve é possível:</p>
@@ -126,7 +133,7 @@
 <p align="justify">Fui o responsável também pelo desenvolvimento da interface gráfica do projeto através de prototipação, foi minha primeira experiência na área, mas que foi muito bem recebida pela equipe e cliente.</p>
 <p>Me destaquei pelo compromisso com o projeto e pelo envolvimento na maioria dos processos do frontend, desenvolvendo funcionalidades, ajudando meus colegas e trabalhando em correções e melhorias.</p>
 <details>
-    <summary>Experiências adquiridas em Hard Skills</summary>
+    <summary><b>Experiências adquiridas em Hard Skills</b></summary>
     <p></p>
     <ul>
         <li>Prototipação de interfaces gráficas com Figma.</li>
@@ -138,7 +145,7 @@
     </ul>
 </details>
 <details>
-    <summary>Soft Skills desenvolvidas</summary>
+    <summary><b>Soft Skills desenvolvidas</b></summary>
     <p></p>
     <ul>
         <li><b>Trabalho em equipe</b>, pois pude trabalhar de forma direta com todos os membros da equipe em pelo menos um momento.</li>
