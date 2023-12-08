@@ -36,8 +36,10 @@
     <li><b>MySQL</b>: SGBD utilizado para armazenar os dados.</li>
 </ul>
 <h4>Contribuições pessoais</h4>
-<p align="justify">Neste projeto eu atuei como desenvolvedor backend e SCRUM Master, sendo minha primeira vez para ambas as posições. Como desenvolvedor eu operei no início criando estruturas para comunicação entre as diferentes partes do projeto (frontend, backend e banco de dados) e trabalhei diretamente em funcionalidades específicas como o histórico de transação dos usuários, geração de comprovantes de operações e rendimento das contas do tipo poupança.</p>
-<p align="justify">Atuar como SCRUM Master foi desafiador, por ser o primeiro contato com a metodologia sinto que muitas das funções de cada papel ficaram meio embaralhadas, porém, posso dizer que ao final do semestre consegui criar um ambiente para gerenciar as tarefas e requisitos que surgiram do projeto através de ferramentas como o Jira e planilhas do Excel, também criei canais de comunicação para a equipe e documentei o processo e o produto no nosso repositório do Github. Além disso, auxiliei no entendimento dos requisitos e na montagem do Product Backlog.</p>
+<p align="justify">Neste projeto eu atuei como desenvolvedor backend e SCRUM Master simultâneamente, sendo minha primeira vez para ambas as posições. Como desenvolvedor eu operei no início criando estruturas para comunicação entre as diferentes partes do projeto (frontend, backend e banco de dados) e trabalhei diretamente em funcionalidades específicas como o histórico de transação dos usuários, geração de comprovantes de operações e rendimento das contas do tipo poupança.</p>
+<p align="justify">Atuar como SCRUM Master foi desafiador, por ser o primeiro contato com a metodologia sinto que muitas das funções de cada papel se embaralharam, porém, posso dizer que ao final do semestre consegui criar um ambiente para gerenciar as tarefas e requisitos que surgiram do projeto através de ferramentas como o Jira e planilhas do Excel, também criei canais de comunicação para a equipe e documentei o processo e o produto no nosso repositório do Github. Além disso, auxiliei no entendimento dos requisitos e na montagem do Product Backlog.</p>
+<h4>Considerações</h4>
+<p align="justify">Em síntese, este projeto foi uma boa introdução, explorando conceitos fundamentais para o desenvolvimento web e me introduzindo às dinâmicas de equipes ágeis. Deixou claro o quão complexo pode ser o desenvolvimento de software e o quão importante é a organização e o alinhamento da equipe em busca do sucesso de um projeto. Um conhecimento valioso para os próximos semestres.</p>
 <details>
     <summary><b>Experiências adquiridas em Hard Skills</b></summary>
     <p></p>
@@ -85,6 +87,9 @@
 <p align="justify">Neste projeto eu atuei inicialmente como desenvolvedor backend. Auxiliei no entendimento e levantamento de requisitos, na modelagem do banco de dados, na conexão entre o Express/Typescript e o MySQL, desenvolvi o CRUD de pedidos, fornecedores e inserção de nota fiscal.</p>
 <p align="justify">No meio do projeto se fez necessário atualizar a estrutura do frontend para um SPA utilizando o React e eu fui uma das pessoas que auxiliou nesse processo. Após esse episódio, desempenhei majoritariamente funções de frontend. Isso incluiu o desenvolvimento dos componentes de análise qualitativa e relatório final, bem como a implementação de filtros e pesquisa sobre os dados cadastrados.</p>
 <p align="justify">Também aproveitei da minha experiência do semestre anterior como SCRUM Master para auxiliar meu colega que estava desempenhando este papel no uso das ferramentas.</p>
+<h4>Considerações</h4>
+<p align="justify">Após a introdução do semestre anterior, esse projeto pode proporcionar a experiência de lidar com um cliente, mesmo que não diretamente, pude aprender sobre a dinâmica de negociação e todas as dificuldades envolvidas, voltar a atenção à alinhar as expectativas e ser propositivo nas ideias, tudo em prol de buscar uma solução.</p>
+<p align="justify">A necessidade de alterar tecnologias do projeto no seu decorrer foi assustadora no início, mas trouxe benefícios. Poder estar envolvido em diferentes partes do projeto contribuiu para o meu conhecimento e me permitiu uma compreensão maior das suas relações. Apesar do bônus, ficou a lição do quão importante é o planejamento e o esclarecimento antes mesmo do início do desenvolvimento.</p>
 <details>
     <summary><b>Experiências adquiridas em Hard Skills</b></summary>
     <p></p>
@@ -132,6 +137,9 @@
 <p align="justify">Neste projeto, após a experiência com o React, migrei quase que completamente para o desenvolvimento frontend. Desempenhei um papel de liderança desde o início nesse setor, onde fui o responsável por arquitetar a estrutura e o fluxo de informações e propor novas ferramentas que auxiliaram o desenvolvimento.</p>
 <p align="justify">Fui o responsável também pelo desenvolvimento da interface gráfica do projeto através de prototipação, foi minha primeira experiência na área, mas que foi muito bem recebida pela equipe e cliente.</p>
 <p>Me destaquei pelo compromisso com o projeto e pelo envolvimento na maioria dos processos do frontend, desenvolvendo funcionalidades, ajudando meus colegas e trabalhando em correções e melhorias.</p>
+<h4>Considerações</h4>
+<p align="justify">No decorrer do projeto, fomos expostos a diversos problemas internos e outros que envolviam até o escopo de todos os grupos, que acabaram por promover modificações nas equipes. Aprendi a importância de lembrar do objetivo final e manter a calma para superar esses desafios</p>
+<p align="justify">No mais, sinto uma evolução notável em mim desde o início até aqui, percebo que atingi um nível que me possibilita, mesmo com dificuldades, realizar as entregas e desejo daqui pra frente aplicar meus esforços em conhecer mais sobre os detalhes técnicos e áreas correlatas para aprimorar a qualidade do que eu faço.</p>
 <details>
     <summary><b>Experiências adquiridas em Hard Skills</b></summary>
     <p></p>
