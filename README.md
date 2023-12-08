@@ -88,7 +88,7 @@
 <p align="justify">No meio do projeto se fez necessário atualizar a estrutura do frontend para um SPA utilizando o React e eu fui uma das pessoas que auxiliou nesse processo. Após esse episódio, desempenhei majoritariamente funções de frontend. Isso incluiu o desenvolvimento dos componentes de análise qualitativa e relatório final, bem como a implementação de filtros e pesquisa sobre os dados cadastrados.</p>
 <p align="justify">Também aproveitei da minha experiência do semestre anterior como SCRUM Master para auxiliar meu colega que estava desempenhando este papel no uso das ferramentas.</p>
 <h4>Considerações</h4>
-<p align="justify">Após a introdução do semestre anterior, esse projeto pode proporcionar a experiência de lidar com um cliente, mesmo que não diretamente, pude aprender sobre a dinâmica de negociação e todas as dificuldades envolvidas, voltar a atenção à alinhar as expectativas e ser propositivo nas ideias, tudo em prol de buscar uma solução.</p>
+<p align="justify">Após a introdução do semestre anterior, esse projeto pode proporcionar a experiência de lidar com um cliente. Mesmo que não diretamente, pude aprender sobre a dinâmica de negociação e todas as dificuldades envolvidas, voltar a atenção à alinhar as expectativas e ser propositivo nas ideias, tudo em prol de buscar uma solução.</p>
 <p align="justify">A necessidade de alterar tecnologias do projeto no seu decorrer foi assustadora no início, mas trouxe benefícios. Poder estar envolvido em diferentes partes do projeto contribuiu para o meu conhecimento e me permitiu uma compreensão maior das suas relações. Apesar do bônus, ficou a lição do quão importante é o planejamento e o esclarecimento antes mesmo do início do desenvolvimento.</p>
 <details>
     <summary><b>Experiências adquiridas em Hard Skills</b></summary>
@@ -138,8 +138,8 @@
 <p align="justify">Fui o responsável também pelo desenvolvimento da interface gráfica do projeto através de prototipação, foi minha primeira experiência na área, mas que foi muito bem recebida pela equipe e cliente.</p>
 <p>Me destaquei pelo compromisso com o projeto e pelo envolvimento na maioria dos processos do frontend, desenvolvendo funcionalidades, ajudando meus colegas e trabalhando em correções e melhorias.</p>
 <h4>Considerações</h4>
-<p align="justify">No decorrer do projeto, fomos expostos a diversos problemas internos e outros que envolviam até o escopo de todos os grupos, que acabaram por promover modificações nas equipes. Aprendi a importância de lembrar do objetivo final e manter a calma para superar esses desafios</p>
-<p align="justify">No mais, sinto uma evolução notável em mim desde o início até aqui, percebo que atingi um nível que me possibilita, mesmo com dificuldades, realizar as entregas e desejo daqui pra frente aplicar meus esforços em conhecer mais sobre os detalhes técnicos e áreas correlatas para aprimorar a qualidade do que eu faço.</p>
+<p align="justify">No decorrer do projeto, fomos expostos a diversos problemas internos e outros que envolviam até mesmo o escopo de todos os grupos, que acabaram por promover modificações nas equipes. Aprendi a importância de lembrar do objetivo final e manter a calma para superar esses desafios.</p>
+<p align="justify">No mais, sinto uma evolução notável em mim desde o início até aqui, percebo que atingi um nível que me possibilita, mesmo com dificuldades, realizar as entregas. Desejo daqui pra frente aplicar meus esforços em conhecer mais sobre os detalhes técnicos e áreas correlatas para aprimorar a qualidade do que eu faço.</p>
 <details>
     <summary><b>Experiências adquiridas em Hard Skills</b></summary>
     <p></p>
